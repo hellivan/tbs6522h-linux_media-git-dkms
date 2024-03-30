@@ -1,5 +1,5 @@
 #!/bin/bash
-DKMS_MODULES_LIST=dkms-modules.list
+DKMS_MODULES_LIST=tbs6522h-modules.list
 MODULES_FILE=modules.list
 
 old_checksum=$(sha256sum "$MODULES_FILE" | awk '{print $1}')

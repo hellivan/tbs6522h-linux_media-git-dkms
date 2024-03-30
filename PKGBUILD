@@ -18,7 +18,7 @@ provides=("$_pkgname")
 source=('dkms.conf'
         'modules.list')
 sha256sums=('c3b471b6c1556cd681f28b720b2ec3122994f77c9fa339985d1ca631b0c6e0bc'
-            '195c6a971c915855ab4e39cfd4d7ae14b513fbb7c8daa5b3e5135cc5b50ba81c')
+            '488c79f43ec63260f28c2899a146c1436caacbc04034c8512e7fa5fb2135a112')
 
 prepare() {
 

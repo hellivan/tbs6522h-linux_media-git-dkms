@@ -1,9 +1,8 @@
-# Maintainer: Alexander Sulfrian <asulfrian at zedat dot fu-berlin dot de>
-# Contributor: swearchnick <swearchnick at gmail dot com>
+# Maintainer: Ivan Hell <ivan dot hell 1991 at gmail dot de>
 
 _pkgname=linux_media
 _gitname=media_build
-_pkgbase="tbs-$_pkgname-git"
+_pkgbase="tbs6522h-$_pkgname-git"
 pkgname="$_pkgbase-dkms"
 pkgver=r1590.8876436_c3c0c45
 pkgrel=1
